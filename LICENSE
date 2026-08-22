@@ -1,0 +1,65 @@
+ai-venture-data — Terms of Use / 利用条件
+
+Copyright (c) 2026 the repository owner. All rights reserved except as
+granted below.
+
+────────────────────────────────────────────────────────────
+1. WHAT IS FREE / 無料で使えるもの
+────────────────────────────────────────────────────────────
+
+Files in this repository are published under two different terms depending
+on their age.
+
+**The most recent snapshot of each dataset** — the newest file in each
+directory — is licensed under the Creative Commons Attribution 4.0
+International licence (CC BY 4.0). You may use it commercially, modify it,
+and redistribute it, provided you credit this repository and link to it.
+
+各データセットの**最新のスナップショット**（各ディレクトリ内の最新ファイル）は
+CC BY 4.0 で提供します。出典としてこのリポジトリを明示し、リンクを付ければ、
+商用利用・改変・再配布のすべてが自由です。
+
+────────────────────────────────────────────────────────────
+2. WHAT IS NOT FREE / 無料ではないもの
+────────────────────────────────────────────────────────────
+
+**Older snapshots, and any compilation of them into a time series,** are not
+covered by the licence above. They may be read here, but may not be
+redistributed, resold, or incorporated into a product or dataset without a
+separate written licence.
+
+**過去のスナップショット、およびそれらを時系列に編纂したもの**は、上記の
+ライセンスの対象外です。閲覧は自由ですが、再配布・再販売・製品やデータセット
+への組み込みには、別途の書面による許諾が必要です。
+
+The reason is simple: the current value can be obtained by anyone from the
+original source. The history cannot. It exists only because it was recorded
+on the day it was true.
+
+理由は単純です。現在の値は誰でも元の情報源から取得できます。過去は取得
+できません。その日に記録した者にしか存在しないからです。
+
+────────────────────────────────────────────────────────────
+3. NO WARRANTY / 無保証
+────────────────────────────────────────────────────────────
+
+This data is provided "as is", without warranty of any kind. It is collected
+automatically and is not verified by a human. It may be wrong, stale, or
+incomplete. Do not use it where an error would cause harm, and do not treat
+it as legal, medical, or financial advice.
+
+このデータは現状有姿で提供され、いかなる保証もありません。自動的に収集され、
+人間による検証を経ていません。誤り・古さ・欠落があり得ます。誤りが損害に
+つながる用途に使わないでください。法務・医療・金融に関する助言ではありません。
+
+────────────────────────────────────────────────────────────
+4. SOURCES / 出典
+────────────────────────────────────────────────────────────
+
+Each dataset directory states the original source of its data and the terms
+under which that source permits redistribution. Those terms apply in
+addition to the ones above; where they conflict, the original source's terms
+prevail.
+
+各データセットのディレクトリに、元の情報源とその再配布条件を明記します。
+その条件は上記に優先します。
